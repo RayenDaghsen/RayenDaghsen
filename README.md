@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayenDaghsen
-- 👀 I’m interested in  Coding ASMR
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in  Coding 
+- 🌱 I’m currently studying Cs50 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Dream
 
