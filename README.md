@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RayenDaghsen
-- 👀 I’m interested in  Coding 
-- 🌱 I’m currently studying Cs50 
+- 👋 Hi, I’m RayenDaghsen
+- 👀 I’m interested in  Programming 
+- 🌱 I’m currently studying with ProgrammingAdvices Channel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Dream
 
